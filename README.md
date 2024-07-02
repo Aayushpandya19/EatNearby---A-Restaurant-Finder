@@ -1,1 +1,1 @@
-# EatNearby---A-Restaurant-Finder
+# EatNearby-A-Restaurant-Finder
